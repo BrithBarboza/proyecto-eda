@@ -45,10 +45,11 @@ proyecto-eda/
    ```bash
    python eda.py
 
-4️. Revisa los resultados generados en:
-    ```bash
+3. Revisa los resultados generados en:
+   ```bash
     📄 eda_output/EDA_report.md
     🖼️ eda_output/figs/
+
 
 📊 Ejemplo de resultados
 Clasificación de distribuciones (Normal, Sesgada, Uniforme, etc.)
